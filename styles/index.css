@@ -34,12 +34,17 @@ display: flex;
 }
 .img1{
     width: 50%;
-    margin-right: 200px;
+    margin-left: 5opx;
 }
 .flex {
  display: flex;
  justify-content: space-between;
 
+}
+
+.B1{
+    background-color: #EC4067;
+    color: white;
 }
 .heading1{
 
