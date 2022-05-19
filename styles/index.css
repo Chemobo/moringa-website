@@ -1,6 +1,8 @@
 *{
     font-family: 'Nunito';
+    max-width: 100%;
 }
+
 .topnav{
     display: flex;
     justify-content: space-between;
@@ -9,6 +11,9 @@
 li{
     list-style-type: none;
     display: inline;
+}
+.nav{
+    margin-left: -20;
 }
 
 .logo {
