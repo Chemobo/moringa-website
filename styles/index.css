@@ -10,19 +10,10 @@
     margin-left: -20px;
     margin-bottom: 0%;
 }
-.navbutton{
-    background-color:#EC4067;
-    color:whitesmoke;
-    border: 0cm;
-    display: inline;
-     margin-right: -50px;
-    margin-bottom: 0%;
-    block-size: fit-content;
-    width: fit-content;
-}
+
 .nav li{
     list-style-type: none;
-    display: inline;
+    display: inline-block;
     margin-left: 10px;
     margin-bottom: 0%;
     block-size: fit-content;
@@ -33,12 +24,7 @@ text-align: center;
 float: left;
 display: block;
 }
-.navbar{
-float: right;
-padding: 10px;
-display: flex;
-margin-bottom: 0%;
-}
+
 .section1{
     line-height: 30px;
     margin-top: 5%;
